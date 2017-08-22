@@ -18,10 +18,10 @@ What is in each?
 Know your user:
 Which do they like? Why?
 What do they need?
-*Viewers
-*Particular metadata support
-*Workflow
-*Permissions
+* Viewers
+* Particular metadata support
+* Workflow
+* Permissions
 
 ---
 
@@ -34,7 +34,7 @@ Don't limit this question to only your institution.
 Know your user:
 What are they saying they need?
 Buzzwords?
-*Linked data / RDF / triplestore
+* Linked data / RDF / triplestore
 
 ---
 
