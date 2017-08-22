@@ -10,8 +10,9 @@ historic reasons.
 ---
 
 Get a lay of the land:
-Which systems do you have now?
-What is in each?
+
+* Which systems do you have now?
+* What is in each?
 
 +++
 
