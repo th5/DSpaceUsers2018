@@ -21,10 +21,6 @@ Get a lay of the land:
 * Repos are easy to start, hard to kill.
 * Likely too many, with several disliked.
 
-+++
-
-Get a lay of the land:
-
 ---
 
 Know your user:
@@ -48,33 +44,38 @@ What do they need?
 +++
 
 Know your user:
-Are there any installations that they like?
-Don't limit this question to only your institution.
+
+* Are there any installations that they like?
+* Don't limit this question to only your institution.
 
 +++
 
 Know your user:
-What are they saying they need?
-Buzzwords?
-* Linked data / RDF / triplestore
+
+* What are they saying they need?
+* Buzzwords?
+  * Linked data / RDF / triplestore
 
 +++
 
 Know your user:
-Are there other systems they want to integrate with?
-What protocols do they speak? OAI-PMH?
+
+* Are there other systems they want to integrate with?
+* What protocols do they speak? OAI-PMH?
 
 +++
 
 Know your user:
-Hosted vs local?
-* Perception vs reality
-* Hosted solutions often solve the easy problems. Leaving your team to work on priorities
-* On the other hand, hosted often solves the easy problems
+
+* Hosted vs local?
+  * Perception vs reality
+  * Hosted solutions often solve the easy problems. Leaving your team to work on priorities
+  * On the other hand, hosted often solves the easy problems
 
 +++
 
 Know your user:
+
 What system/s do they say they want? Reasons? Which features?
 
 ---
