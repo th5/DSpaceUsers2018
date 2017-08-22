@@ -13,6 +13,20 @@ Get a lay of the land:
 Which systems do you have now?
 What is in each?
 
++++
+
+Get a lay of the land:
+
+* How do users *feel* about the systems?
+* Repos are easy to start, hard to kill.
+* Likely too many with several disliked.
+
++++
+
+Get a lay of the land:
+
+
+
 ---
 
 Know your user:
