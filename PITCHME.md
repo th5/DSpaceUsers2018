@@ -1,5 +1,9 @@
 Advocating For DSpace
 
+Tom Hutchinson
+
+Bryn Mawr, Haverford, and Swarthmore Libraries
+
 ---
 
 Situation:
