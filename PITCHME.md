@@ -65,32 +65,39 @@ Know your user:
 
 +++
 
-Know your user:
+Know your user: Hosted vs local?
 
-* Hosted vs local?
-  * Perception vs reality
-  * Hosted solutions often solve the easy problems. Leaving your team to work on priorities
-  * On the other hand, hosted often solves the easy problems
+* Perception vs reality
+* Hosted solutions often solve the easy problems. Leaving your team to work on priorities
+* On the other hand, hosted often solves the easy problems
 
 +++
 
 Know your user:
 
-What system/s do they say they want? Reasons? Which features?
+* What system/s do they say they want?
+* Reasons?
+* Which features?
 
 ---
 
 Know your enemy:
-Where are the major features of other systems?
+
+* What other systems are being considered?
+* Where are the major features of other systems?
 
 +++
 
 Know your enemy:
+
 The project formerly know as Hydra-Fedora
 
 * Administrators hear how powerful it is, assume can solve all their problems.
 * No magic bullets!
 * No shortcuts around *the work*
+* Great project btw, Fedora is really solid
+
+p.s. linked data is slow...
 
 +++
 
@@ -98,15 +105,21 @@ Know your enemy:
 Hydra-in-a-box (Hyku)
 
 * Vaporware
+* Spent whole time on naming??
+* I know I'm in minority with this. Huge respect for their team.
 
 +++
 
 Know your enemy:
-What features are your users talking about?
-What are they hearing from sales reps, colleagues, etc?
+
+What features are your users talking about, hearing from sales reps, colleagues, etc?
 
 DSpace has many features that others tout as new or advanced. Sometimes
 different terminology is used.
+
++++
+
+Know your enemy:
 
 e.g. a commercial hosted offering is selling itself as able to
 "use any metadata standard". Compared to DSpaces built-in Dublin Core
@@ -122,7 +135,7 @@ Librarian vs IT
 Often saying same thing, just speak different languages. Cloud can be seen as
 way to get around IT ("those people think preservation is making a backup!?").
 
-Build bridge people
+Build bridge people! So desperately needed
 
 ---
 
@@ -132,12 +145,13 @@ Learn benefits
 * Not just a pile of code. Duraspace is crucial supporting infrastructure.
 * Robust commercial development community
 * Excellent practical documentation
+* Attentive to needs of small institutions!
 
 ---
 
-What would be best?
+What would be best for us?
 * Ideal repo for my institutions doesn't exist
-* DSpace + theme + media players +? little custom dev makes most sense
+* DSpace + theme + media players (+ a little custom dev ?)
 * Instead of paying for expensive product/hosting, consider paying dev time
 
 ---
