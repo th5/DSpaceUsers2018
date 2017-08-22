@@ -38,6 +38,7 @@ Know your user:
 Know your user:
 <br>
 Which do they like? Why?
+<br>
 What do they need?
 * Viewers
 * Particular metadata support
@@ -81,20 +82,23 @@ What system/s do they say they want? Reasons? Which features?
 Know your enemy:
 Where are the major features of other systems?
 
----
++++
 
 Know your enemy:
 The project formerly know as Hydra-Fedora
 
 * Administrators hear how powerful it is, assume can solve all their problems.
-   * 
+* No magic bullets!
+* No shortcuts around *the work*
 
----
++++
 
 Know your enemy:
 Hydra-in-a-box (Hyku)
 
----
+* Vaporware
+
++++
 
 Know your enemy:
 What features are your users talking about?
