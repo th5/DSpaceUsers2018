@@ -1,4 +1,4 @@
-Advocating For DSpace When Choosing Between Systems
+Advocating For DSpace
 
 ---
 
