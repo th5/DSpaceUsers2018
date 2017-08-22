@@ -19,15 +19,22 @@ Get a lay of the land:
 
 * How do users *feel* about the systems?
 * Repos are easy to start, hard to kill.
-* Likely too many with several disliked.
+* Likely too many, with several disliked.
 
 +++
 
 Get a lay of the land:
 
-
-
 ---
+
+Know your user:
+
+* What do they say they want?
+* What do they actually want?
+* *Listen!*
+
+
++++
 
 Know your user:
 Which do they like? Why?
@@ -37,38 +44,34 @@ What do they need?
 * Workflow
 * Permissions
 
----
++++
 
 Know your user:
 Are there any installations that they like?
 Don't limit this question to only your institution.
 
----
++++
 
 Know your user:
 What are they saying they need?
 Buzzwords?
 * Linked data / RDF / triplestore
 
----
++++
 
 Know your user:
 Are there other systems they want to integrate with?
 What protocols do they speak? OAI-PMH?
 
----
++++
 
 Know your user:
 Hosted vs local?
-Perception vs reality
-Hosted solutions often solve the easy problems. Cloud is great at turning 
-software into a product. Hosted can allow small teams to focus on real 
-priorities.
-On the other hand, hosted often solves the easy problems - i.e. running
-an application without domain knowledge, i.e. IT keeping the lights on.
-Will not do the hard work for your institution: maintaining good data and
-metadata, curating collection, etc.
+* Perception vs reality
+* Hosted solutions often solve the easy problems. Leaving your team to work on priorities
+* On the other hand, hosted often solves the easy problems
 
++++
 
 Know your user:
 What system/s do they say they want? Reasons? Which features?
